@@ -2,7 +2,7 @@
 #this module will provide the version of the program
 
 module WalesMatchSchedule
-      VERSION = "0.0.1.0"
+      VERSION = "0.0.2.0"
       #convention for Version A.B.C.D
       # => A= major software functionality change
       # => B= minor software functionality change (making things more convenient)
