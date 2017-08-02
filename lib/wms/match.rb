@@ -6,7 +6,6 @@ class WalesMatchSchedule::Match
   #lets keep track of a class array of all matches
   @@all = []
   def initialize(date=nil, time=nil, comp=nil, home=nil, score=nil, away=nil, venue=nil, more_info=nil)
-
       @@all << self
   end
   def self.reset_all
