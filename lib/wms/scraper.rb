@@ -9,7 +9,7 @@ require 'open-uri'
 
 class WalesMatchSchedule::Scraper
     def get_page
-      doc = Nokogiri::HTML(open("http://www.wru.co.uk/eng/matchcentre/match_centre.php?section=overview&fixid=227061"))
+      doc = Nokogiri::HTML(open("http://www.wru.co.uk/eng/matchcentre/index.php"))
 
 
 
