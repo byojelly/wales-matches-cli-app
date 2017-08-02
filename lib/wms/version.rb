@@ -1,5 +1,6 @@
 #lets create our main module for the program. Within this module we can make nested modules for future add opens
 #this module will provide the version of the program
+require_relative '../wms.rb'
 
 module WalesMatchSchedule
       VERSION = "0.0.2.0"
