@@ -1,0 +1,4 @@
+
+class WalesMatchSchedule::Scraper
+
+end
