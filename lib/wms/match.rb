@@ -15,3 +15,5 @@ class WalesMatchSchedule::Match
   end
 
 end
+
+#    new = WalesMatchSchedule::Match.new
